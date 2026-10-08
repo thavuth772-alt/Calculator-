@@ -1,0 +1,3 @@
+{
+  "expo":{"name":"Scientific Calculator Pro","slug":"scientific-calculator-pro","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"dark","splash":{"backgroundColor":"#0b1020"},"android":{"package":"com.thavuth.scientificcalculatorpro","versionCode":1,"permissions":[]}}
+}
